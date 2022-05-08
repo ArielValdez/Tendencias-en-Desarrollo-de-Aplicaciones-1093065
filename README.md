@@ -15,4 +15,7 @@ Validación de SSN: Se requiere poder validar SSN
 
 
 # Descarga
-
+1. git clone {repositorio}
+2. cd repo-directorio
+3. dotnet run "prueba"
+4. Muestra debe mostrar "Valido" o "Inválido", según el número puesto
