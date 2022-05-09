@@ -7,8 +7,15 @@ namespace TD._01
         static void Main(string[] args)
         {
             //Separate by hyphen or spaces
-            Console.WriteLine(SSNRegex(args[0]));
-            Console.WriteLine(SSNArray(args[0]));
+            if (args[0] == null)
+            {
+                Console.WriteLine("Invalid");
+            }
+            else
+            {
+                Console.WriteLine(SSNRegex(args[0]));
+                Console.WriteLine(SSNArray(args[0]));
+            }
         }
         static string SSNArray(string ssn)
         {

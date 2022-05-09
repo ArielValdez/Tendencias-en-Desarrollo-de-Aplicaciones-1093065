@@ -12,3 +12,17 @@ C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\TD.01\obj\Debug\netcorea
 C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.dll
 C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.pdb
 C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.genruntimeconfig.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.exe
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.deps.json
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.runtimeconfig.json
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.runtimeconfig.dev.json
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1\TD.01.pdb
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.AssemblyInfoInputs.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.AssemblyInfo.cs
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.csproj.CoreCompileInputs.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.pdb
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\obj\Debug\netcoreapp3.1\TD.01.genruntimeconfig.cache
