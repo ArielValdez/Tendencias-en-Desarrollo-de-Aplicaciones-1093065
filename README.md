@@ -12,6 +12,14 @@ Tiene que cumplir con las siguientes condiciones:
 1. Permitir que el programa lea desde los argumentos de una consola
 2. El programa lea 3 divisiones en un array
 3. Cumpla con los requisitos mencionados anteriormente
+4. Los casos de pruebas serán: 
+    1. " " = Invalid, 
+    2. "000-00-0000" = Invalid,
+    3. "333-01-0001" = Valid, 
+    4. "666-01-0001" = Invalid, 
+    5. "952-01-0001" = Invalid, 
+    6. "99-01-0001" = Invalid,
+    7. "333-00-0001" =, ""
 
 # Descarga
 1. git clone https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065.git
