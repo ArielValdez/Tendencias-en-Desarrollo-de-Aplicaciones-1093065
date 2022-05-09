@@ -9,7 +9,9 @@ Tiene que cumplir con las siguientes condiciones:
 5. La tercera parte debería tener exactamente 4 dígitos: Debe ser entre 0001 a 9999
 
 # Pruebas manuales
-
+1. Permitir que el programa lea desde los argumentos de una consola
+2. El programa lea 3 divisiones en un array
+3. Cumpla con los requisitos mencionados anteriormente
 
 # Descarga
 1. git clone https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065.git
