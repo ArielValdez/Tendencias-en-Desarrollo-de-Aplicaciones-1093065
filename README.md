@@ -8,7 +8,7 @@ Tiene que cumplir con las siguientes condiciones:
 4. La segunda parte debería tener exactamente 2 dígitos: Debe ser entre 01 y 99.
 5. La tercera parte debería tener exactamente 4 dígitos: Debe ser entre 0001 a 9999
 
-# Casos de uso
+# Pruebas manuales
 
 
 # Descarga
