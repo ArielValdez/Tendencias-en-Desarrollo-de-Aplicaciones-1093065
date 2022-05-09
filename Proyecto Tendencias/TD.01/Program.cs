@@ -6,15 +6,25 @@ namespace TD._01
     {
         static void Main(string[] args)
         {
-            //Separate by hyphen or spaces
-            if (args[0] == null)
-            {
-                Console.WriteLine("Invalid");
-            }
-            else
+            //SSNArray(" ");
+            //SSNArray("000-00-0000");
+            //SSNArray("333-01-0001");
+            //SSNArray("666-01-0001");
+            //SSNArray("952-01-0001");
+            //SSNArray("99-01-0001");
+            //SSNArray("333-00-0001");
+            //SSNArray("333-99-0001");
+            //SSNArray("333-99-0000");
+            //SSNArray("333-99-100");
+            //SSNArray("333-99-3333");
+            try
             {
                 Console.WriteLine(SSNRegex(args[0]));
-                Console.WriteLine(SSNArray(args[0]));
+                Console.WriteLine("Introduced SSN is: {0}", SSNArray(args[0]));
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
             }
         }
         static string SSNArray(string ssn)
