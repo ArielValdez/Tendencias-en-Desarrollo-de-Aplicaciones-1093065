@@ -12,7 +12,7 @@ Tiene que cumplir con las siguientes condiciones:
 
 
 # Descarga
-1. git clone {repositorio}
-2. cd repo-directorio
+1. git clone https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065.git
+2. cd "Tendencias en Desarrollo de Aplicaciones 1093065"
 3. dotnet run "prueba"
 4. Muestra debe mostrar "Valido" o "Inválido", según el número puesto
