@@ -1,0 +1,2 @@
+C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\Proyecto Tendencias\obj\Debug\Proyecto Tendencias.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\source\repos\Proyecto Tendencias\Proyecto Tendencias\obj\Debug\Proyecto Tendencias.csproj.CoreCompileInputs.cache
