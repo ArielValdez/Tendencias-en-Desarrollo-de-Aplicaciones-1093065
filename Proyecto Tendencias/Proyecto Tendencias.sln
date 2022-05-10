@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Tendencias", "Proyecto Tendencias\Proyecto Tendencias.csproj", "{6482F951-31E8-4E8F-96F0-B49E0E0800F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD.01", "TD.01\TD.01.csproj", "{186149E7-9F2B-4B4E-891D-9D6FAFD788FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD.01", "TD.01\TD.01.csproj", "{186149E7-9F2B-4B4E-891D-9D6FAFD788FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+
 namespace TD._01
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -27,10 +28,11 @@ namespace TD._01
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                //Console.WriteLine(ex);
+                Console.WriteLine("\nPlease Introduce an SSN");
             }
         }
-        static string SSNArray(string ssn)
+        public static string SSNArray(string ssn)
         {
             //These arrays are used to separate the sections of the SSN into different indexes
             char[] separator = { '-', ' ' };
@@ -64,7 +66,7 @@ namespace TD._01
             else return "Valid";
             #endregion
         }
-        static string SSNRegex(string ssn) //Alternative
+        public static string SSNRegex(string ssn) //Alternative
         {
             //Regular expression, used to check to match the SSN and the regex used
             Regex regex = new Regex("^(?!666|000|9\\d{2})\\d{3}-(?!00)\\d{2}-(?!0{4})\\d{4}$");

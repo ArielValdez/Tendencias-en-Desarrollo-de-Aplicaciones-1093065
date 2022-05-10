@@ -1,0 +1,17 @@
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\TD.01.Tests.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\TD.01.Tests.pdb
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\obj\Debug\TD.01.Tests.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\obj\Debug\TD.01.Tests.csproj.CoreCompileInputs.cache
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\obj\Debug\TD.01.Tests.csproj.CopyComplete
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\obj\Debug\TD.01.Tests.dll
+C:\Users\VALDEZ GAMING\Documents\GitHub\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01.Tests\obj\Debug\TD.01.Tests.pdb
