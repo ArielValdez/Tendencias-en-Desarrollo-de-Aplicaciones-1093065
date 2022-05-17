@@ -5,5 +5,6 @@
 4. dotnet run "333-01-9999" -> Valid
 5. dotnet run "666-00-0000" -> Invalid
 
-Requirement Document: 
+Requirement Document: https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065/blob/main/Proyecto%20Tendencias/Doc/Requirements.md
+
 Manual Tests: https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065/blob/main/Proyecto%20Tendencias/Doc/ManualTests.md
