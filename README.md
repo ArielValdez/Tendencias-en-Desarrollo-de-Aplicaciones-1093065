@@ -1,18 +1,27 @@
 # Tendencias-en-Desarrollo-de-Aplicaciones-1093065
-# Requeriminetos 
-Validación de SSN: Se requiere poder validar SSN
-Tiene que cumplir con las siguientes condiciones:
-1. Debe tener exactamente 9 dígitos,
-2. Debe estar separado en 3 partes, separados pr un guión (-),
-3. La primera parte debía tener exactamente 3 dígitos. Los dígitos no deberían tener los dígitos 000, 666, o ninguno entre 900 y 999.
-4. La segunda parte debería tener exactamente 2 dígitos: Debe ser entre 01 y 99.
-5. La tercera parte debería tener exactamente 4 dígitos: Debe ser entre 0001 a 9999
+## User Manual
+1. git clone https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065.git
+2. cd ".\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1"
+4. dotnet run "333-01-9999" -> Valid
+5. dotnet run "666-00-0000" -> Invalid
 
-# Pruebas manuales
-1. Permitir que el programa lea desde los argumentos de una consola
-2. El programa lea 3 divisiones en un array
-3. Cumpla con los requisitos mencionados anteriormente
-4. Los casos de pruebas string serán: 
+## Requirements
+SSN Validation: It is required an SSN validation.
+It has to fullfil the following conditions:
+1. It must have exactly nine (9) digits,
+2. It must be separated in three (3) parts, separated by a hyphen (-),
+3. The first part must have exactly 3 digits.
+    1. These digits must not have the following digits: 000, 666, nor between 900 and 999,
+4. The second part must have exavtly two (2) digits:
+    1. It must be between 01 and 99,
+5. The third part must have exactly four (4) digits:
+    1. It must be between 0001 and 9999.
+
+## Manual Tests
+1. Allow the program to read from console command prompt arguments,
+2. The program should separate the elements into three (3) in an array,
+3. It must complete the requirements mentioned previously,
+4. The test cases, in string, must be:
     1. " " = Invalid, 
     2. "000-00-0000" = Invalid,
     3. "333-01-0001" = Valid, 
@@ -24,9 +33,3 @@ Tiene que cumplir con las siguientes condiciones:
     9. "333-99-0000" = Invalid,
     10. "333-99-100" = Invalid,
     11. "333-99-3333" = Valid
-
-# Descarga
-1. git clone https://github.com/ArielValdez/Tendencias-en-Desarrollo-de-Aplicaciones-1093065.git
-2. cd ".\Tendencias-en-Desarrollo-de-Aplicaciones-1093065\Proyecto Tendencias\TD.01\bin\Debug\netcoreapp3.1"
-4. dotnet run "333-01-9999" -> Valid
-5. dotnet run "666-00-0000" -> Invalid
